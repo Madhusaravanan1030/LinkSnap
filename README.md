@@ -16,7 +16,8 @@
 
 | Dashboard | Analytics | Auth |
 |-----------|-----------|------|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
+| <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb17a4b5-3483-42b8-bbe0-fe56549d57ac" />
+ |  |  |
 
 ---
 
