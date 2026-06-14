@@ -7,7 +7,7 @@
 
 ## 🎥 Demo Video
 
-> **(https://www.loom.com/share/7429558c31d34219add74d7851e3ae88)**
+> **https://www.loom.com/share/ff5c57ac0c36475d9f037e05dd36fb97**
 > *(Replace this link with your recorded video before submission)*
 
 ---
