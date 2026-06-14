@@ -173,11 +173,11 @@ cp .env.example .env
 Open `server/.env` and fill in:
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/linksnap
+MONGODB_URI=Your_mongo_atlas_connection_string
 JWT_SECRET=replace_with_a_long_random_string_at_least_32_chars
 JWT_EXPIRES_IN=7d
-BASE_URL=http://localhost:5000
-CLIENT_URL=http://localhost:5173
+BASE_URL=https://linksnap-api-zy3j.onrender.com/link-
+CLIENT_URL=https://link-snap-liart.vercel.app
 ```
 
 > **MongoDB Atlas users:** replace `MONGODB_URI` with your Atlas connection string.
