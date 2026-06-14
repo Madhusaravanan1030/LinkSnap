@@ -13,13 +13,13 @@
 ---
 
 ## 📸 Screenshots
+Dashboard:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb17a4b5-3483-42b8-bbe0-fe56549d57ac" />
+Analytics:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24fae43a-f8b3-42fd-b421-c39d9d12571f" />
+Auth
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9c43b60-1e4d-4ec2-a47e-0655d56fe9a6" />
 
-| Dashboard | Analytics | Auth |
-|-----------|-----------|------|
-|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cb17a4b5-3483-42b8-bbe0-fe56549d57ac" />
-|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24fae43a-f8b3-42fd-b421-c39d9d12571f" />
-|<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c9c43b60-1e4d-4ec2-a47e-0655d56fe9a6" />
-|
 
 ---
 
